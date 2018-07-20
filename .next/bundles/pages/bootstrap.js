@@ -19,7 +19,7 @@ __NEXT_REGISTER_PAGE('/bootstrap', function() {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__Dialog_scss__ = __webpack_require__("./components/Dialog/Dialog.scss");
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__Dialog_scss___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_5__Dialog_scss__);
 var _class,
-    _jsxFileName = "C:\\Users\\Administrator\\Desktop\\Next.js\\nextjs-base\\components\\Dialog\\Dialog.js";
+    _jsxFileName = "D:\\nextjs-base\\components\\Dialog\\Dialog.js";
 
 function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterator === "symbol") { _typeof = function _typeof(obj) { return typeof obj; }; } else { _typeof = function _typeof(obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; }; } return _typeof(obj); }
 
@@ -148,7 +148,7 @@ function (_Component) {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react__ = __webpack_require__("./node_modules/react/index.js");
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_react__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_react_bootstrap__ = __webpack_require__("./node_modules/react-bootstrap/es/index.js");
-var _jsxFileName = "C:\\Users\\Administrator\\Desktop\\Next.js\\nextjs-base\\components\\Modal\\Modal.js";
+var _jsxFileName = "D:\\nextjs-base\\components\\Modal\\Modal.js";
 
 
 
@@ -204,7 +204,7 @@ var ModalComponent = function ModalComponent(_ref) {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react__ = __webpack_require__("./node_modules/react/index.js");
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_react__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__components_Dialog__ = __webpack_require__("./components/Dialog/index.js");
-var _jsxFileName = "C:\\Users\\Administrator\\Desktop\\Next.js\\nextjs-base\\layouts\\PageComponent\\PageComponent.js";
+var _jsxFileName = "D:\\nextjs-base\\layouts\\PageComponent\\PageComponent.js";
 
 function _extends() { _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; }; return _extends.apply(this, arguments); }
 
@@ -24778,7 +24778,7 @@ module.exports = warning;
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__layouts_PageComponent__ = __webpack_require__("./layouts/PageComponent/index.js");
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__BootstrapDemo_scss__ = __webpack_require__("./pages/bootstrap/BootstrapDemo.scss");
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__BootstrapDemo_scss___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_5__BootstrapDemo_scss__);
-var _jsxFileName = "C:\\Users\\Administrator\\Desktop\\Next.js\\nextjs-base\\pages\\bootstrap\\BootstrapDemo.js";
+var _jsxFileName = "D:\\nextjs-base\\pages\\bootstrap\\BootstrapDemo.js";
 
 function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterator === "symbol") { _typeof = function _typeof(obj) { return typeof obj; }; } else { _typeof = function _typeof(obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; }; } return _typeof(obj); }
 
